@@ -1,0 +1,4 @@
+interface:
+  display_name: "Universe Design"
+  short_description: "依据飞书 Universe Design 规范，用 shadcn 和 Tailwind 构建及检查界面"
+  default_prompt: "使用 $universe-design，按飞书规范设计并实现界面，同时检查组件交互和主题一致性。"
